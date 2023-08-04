@@ -77,6 +77,6 @@ Vamos em frente!
 [Estruturando seu HTML + Formatações 📜](https://www.dio.me/certificate/F22635B0/share)  
 [Trabalhando com Mídias utilizando HTML 📜](https://www.dio.me/certificate/F8419C45/share)  
 [Criando Tabelas com HTML 📜](https://www.dio.me/certificate/28D03FE3/share)  
-[Criar Uma Página Web Utilizando as Tags Aprendidas 🎓 ](https://www.dio.me/certificate/85A70D0F/share)  
+[Criando seu Primeiro Site Completo com HTML 🎓 ](https://www.dio.me/certificate/086F62F6/share)  
 
 [Digital Innovation One 💻](https://www.dio.me/?ref=RE6NDV822B)
