@@ -4,8 +4,7 @@ html, body {
 body {
     background-color: #f1f1f1;
     display: flex;
-    justify-content: center;
-    
+    justify-content: center;    
 }
 
 .wrapper {
@@ -37,3 +36,4 @@ body {
     background-color: rgb(99, 56, 240);
     min-height: 150px;
 }
+
